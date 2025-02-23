@@ -69,7 +69,7 @@ const Footer = () => {
         <p>Copyright © {new Date().getFullYear()} - All right Product Hunt</p>
         <span className="text-blue-500 hover:underline underline-offset-2 ">
           <a target="_blank" href="https://www.mdranju.xyz">
-            <small className="text-white">Developed by:</small> Md. Ranju
+            <small className="text-white">Developed by:</small> OK, Cherniak
           </a>
         </span>
       </aside>
