@@ -14,7 +14,7 @@ import MyProfile from "@/pages/Dashboard/User/MyProfile";
 import Home from "@/pages/Home/Home";
 import NotFound from "@/pages/NotFound/NotFound";
 import ProductDetails from "@/pages/Product/ProductDetails";
-import Products from "@/pages/Product/products";
+import Products from "@/pages/Product/Products";
 import { createBrowserRouter } from "react-router-dom";
 import PrivateRoutes from "./PrivateRoute";
 import IsAdmin from "./IsAdmin";
